@@ -110,7 +110,7 @@
           <div class="col-md-4 ms-auto order-2">
             <h2 class="mb-4">Receive direct payments</h2>
             <p class="mb-4">After the ride, your profits are automatically and directly deposited to your account.</p>
-            <p><a href="driver.html" class="btn btn-primary">Become a driver</a></p>
+            <p><a href="driver" class="btn btn-primary">Become a driver</a></p>
           </div>
           <div class="col-md-6" data-aos="fade-right">
             <img src="assets/img/payment.png" alt="Image" class="img-fluid">
@@ -126,7 +126,7 @@
           <div class="col-md-4 me-auto">
             <h2 class="mb-4">Control your own working hours</h2>
             <p class="mb-4">Peakme allows you to be your own boss, working whenever and for as long as you want.</p>
-            <p><a href="driver.html" class="btn btn-primary">Become a driver</a></p>
+            <p><a href="driver" class="btn btn-primary">Become a driver</a></p>
           </div>
           <div class="col-md-6" data-aos="fade-left">
             <img src="assets/img/time.png" alt="Image" class="img-fluid">

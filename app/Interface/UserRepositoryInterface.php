@@ -9,6 +9,9 @@ interface UserRepositoryInterface
    public function all(): Collection;
 
 
-   public function login();
+   public function login($data);
+
+   public function register($data);
+   public function register_form($data);
 
 }

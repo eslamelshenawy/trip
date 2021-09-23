@@ -17,7 +17,7 @@
             <div class="col-md-4 mb-4 mb-md-0">
               <h3>Navigation</h3>
               <ul class="list-unstyled">
-                <li><a href="driver.html">Become a driver</a></li>
+                <li><a href="driver">Become a driver</a></li>
                 <li><a href="#aboutUs">About us</a></li>
                 <li><a href="contact.html">Contact us</a></li>
               </ul>
